@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jess</h1>
-<h3 align="center">A passionate full stack developer. Web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course). I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flair intact.</h3>
+<h3 align="center">A passionate front end developer. Web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course). I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flair intact.</h3>
 <br>
 <h3 align="center">
   My specialties include Front-End development, React, JSX, CSS, quickly learning new skills and programming languages, problem-solving, domain-driven design, responsive design principles, website optimization, and BEM methods of organizing code. I'm still enthusiastically learning any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
