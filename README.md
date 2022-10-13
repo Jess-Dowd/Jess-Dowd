@@ -25,7 +25,7 @@ impact in the ever-growing tech industry.. Web development calls to all my passi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jessalyn dowd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessalyn dowd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessdoeswordpress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessalyn dowd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">https://jess-dowd.github.io/Jess_Dowd_Portfolio/</h3>
